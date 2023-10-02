@@ -1,0 +1,39 @@
+3 sprints structure (preferred)
+
+mid w3 to mid w5  ~ 2 weeks - Sprint 1
+mid w5 to mid w8  ~ 2 weeks (excluding w6 flexi week) - Sprint 2
+mid w8 to mid w10 ~ 2 weeks - Sprint 3
+
+	Week 5  - Prog Demo A (Sprint 1)
+	Week 8  - Prog Demo B (Sprint 2)
+	Week 10 - Final Demo  (Whole System)
+
+
+5 sprints structure
+
+end w3 to mid w5  ~ a bit more than 1 week - Sprint 1
+mid w5 to mid w7  ~ 1 week (excluding w6 flexi week) - Sprint 2
+mid w7 to mid w8  ~ 1 week - Sprint 3
+mid w8 to mid w9  ~ 1 week - Sprint 4
+mid w9 to mid w10 ~ 1 week - Sprint 5
+
+	Week 5  - Prog Demo A (Sprint 1)
+	Week 8  - Prog Demo B (Sprints 2&3)
+	Week 10 - Final Demo  (Whole System)
+
+
+An objective is a set of User Stories (USs)
+For example, objective 2 has 5 USs 6, 8, 9, 12, and 15
+
+Give start and end date of all sprints (3 or 5?) - must
+
+Assuming there are 30 user stories (you may have more or less)
+  30 user stories in the product backlog - must
+  For instance, 9 user stories in Sprint 1 - must
+  11 sprint 2 - optional
+  10 sprint 3 - optional 
+
+
+
+
+

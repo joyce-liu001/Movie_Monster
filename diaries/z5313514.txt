@@ -1,0 +1,385 @@
+# z5313514 Work Diary
+
+# Week 1
+
+## Friday 03.06.22
+
+Met with:
+
+| Preferred Name  | Full Name        | zID      |
+| --------------- | ---------------- | -------- |
+| Tam (me)        | Khiet Tam Nguyen | z5313514 |
+| Damon           | Shengyue Guan    | z5285996 |
+| Owen            | Xunbo Su         | z5285996 |
+| Joyce           | Zhaoyan Liu      | z5271698 |
+| Matt            | Feng Ji          | z5290365 |
+
+Used [when2meet](https://www.when2meet.com/?15832342-OBjsI) to plan weekly meetings on
+
+First 3 weeks Meeting Plan for Proposal:
+
+- Sunday 3:00 pm AEST
+- Wednesday 8:00 pm AEST
+
+Meeting notes:
+
+- Asynchronous communications on [slack](comp3900-world.slack.com)
+- Meetings and Standups on [Microsoft Teams](https://teams.microsoft.com/l/team/19%3adVS5wXc2y2vupjwP__vUbumyO9xUgof6R6eM2d3dzhU1%40thread.tacv2/conversations?groupId=76e1c816-d7a0-4dda-a83a-3ec6a36cb20e&tenantId=3ff6cfa4-e715-48db-b8e1-0867b9f9fba3)
+- Jira used for project management
+- Github for code-base and continuous integration
+- Self-introductions + ice breakers
+- Brief discussions about individual skills, e.g.
+    - choice of programming languages such as java/javascript-typescript/python3
+    - preference over frontend/backend
+- The meeting was adjourned until Sunday
+
+## Sunday 05.06.22
+
+- I proposed a few novel features at the 3:00 - 4:00 pm AEST meeting, e.g.
+    ```
+    [05/06, 15:20] Tam Nguyen
+        1. Add friends => share movies + notification features
+     
+    [05/06, 15:21] Tam Nguyen
+        2. Flag other users' comments as spoiler
+     
+    [05/06, 15:22] Tam Nguyen
+        3. Subscription to different directors / studios for new movie releases
+     
+    [05/06, 15:22] Tam Nguyen
+        4. Profile page => can show other users how many movies we've seen.
+        - Also graph to display stats (e.g. favourite genres from movies watched)
+     
+    [05/06, 15:23] Tam Nguyen
+        5. Allow verified users to create quizzes about movies
+    ```
+- Damon added these to Jira.
+- Group discussed and removed option 3 due to potential time limitations and difficulty.
+- Proposed to complete user stories by Wednesday 08.06.22 (3 per person)
+- Proposed for everyone to consider useful routes that will be shared between the front and back-end for Wednesday meeting
+- Was assigned to write user stories for the novel features
+
+# Week 2
+
+## Monday 06.06.22
+
+- Written user stories for novel features
+- Proposed acceptance criteria for user stories
+- Gained access to [Github Repository] - added SSH key to account
+    - Researched Github Actions (looking for equivalence to `.gitlab-ci.yml`)
+    - Researched GitHub Integration Demo from [course-provided video](https://youtu.be/Q0Dk_k6Qe3U)
+    
+## Wednesday 08.06.22
+
+### 01:12 am AEST
+- Committed diary to `z5313514-diary` branch
+- Created frontend and backend directories with `.gitignore` for java/typescript-react respectively
+- Planned a few routes for the upcoming meeting at 8:00 pm today
+
+### 07:32 pm AEST
+
+- The meeting was delayed by 24 hours, another group member had a doctor's appointment
+
+## Thursday 09.06.22
+
+- During the meeting, everyone reviewed the user stories given.
+- Some user stories had to be rephrased and made broader, with specifics moved to the acceptance criteria.
+Acceptance criteria were written together for stories that did not have them.
+- Reminded group to commit/update diaries in GitHub repo 
+- A common interface between the frontend and backend will be discussed during the next meeting (lab time on Friday).
+
+## Friday 10.06.22
+
+- Meeting during lab time, Rachid clarified user stories, objectives and sprints
+- Everyone else to refine the 6 user stories + acceptance criteria (in order)
+- Owen try to do a rough interface by Sunday
+- Joyce to do the Background (10%)
+- Damon to research system architecture
+- Tam to do the Novelties section
+- Project Objectives to be done on Sunday
+
+## Sunday 10.06.22
+
+- Checkin of previous tasks - pointed out that novelties need to be unique from other movie apps, not just something the specs do not include.
+- Divided tasks with set deadlines for everyone on Wednesday 15.06.22
+- Tam to do user stories, acceptance criteria, objectives and sprint
+- Owen and Matt to do background, title page + Movie monster image, interface flow diagram
+- Damon and Joyce to do system architecture (layers, user interactions, technologies and languages planned)
+- Lecturer to be asked about diagram presentation
+
+# Week 3
+
+## Wednesday 15/06/22
+- Fixed up proposal background (Grammar/punctuation)
+- Fixed up drawbacks and existing system analysis (headings, phrasing, formating)
+- Completed user stories, acceptance criteria + priorities and added to Google Docs and Jira
+
+## Friday 17.06.22
+
+- Joyce to fix references
+- Damon to fix layers (external actors => presentation => business => data)
+- Tam to fix objectives (8 total) in Docs and Jira
+- Tam to finish novel features in proposal
+- Owen to keep working with Matt on the interface
+- Matt will do flow diagram by Saturday
+- Use IMDB API and download + import JSON into our database
+- Everyone to finish everything by latest Sunday 3:00 pm (before meeting)
+- Next meeting:
+    - Discuss common interface between frontend and backend
+    - Fix up proposal together and ready for submission
+
+## Saturday 18.07.22
+
+**Slack progress tracker:**
+
+- :todo_done: background => problem overview finished
+- :todo_done: existing systems (although may need to fix up some references + dates)
+- :todo_done: user stories google docs + jira
+- :todo_done: updated jira screenshots
+- :todo_done: novel features section
+- :todo_doing: fix grammar + punctuation for all sections
+- :todo: formatting PDF and ready for submission
+- :todo_done: from lectures, try to keep within 25 pages (we have 28 lol)
+- :todo: common interface between frontend and backend
+- :todo_pause: coding - let's wait after proposal is submitted and interface defined
+- :todo_cancel: Jira roadmap - I think it takes some time and isn't marked so probably not worth it
+- P.s. hope everyone's cool with meeting at Sunday 4:30 pm AEST.
+
+## Sunday 19.06.22
+
+- Interface worked on together as a group during meeting
+- Tam to finalise report (fixing formatting, grammar, references, etc)
+- Matt to reference/link user stories in the story boards
+- Owen and Joyce to proof read
+- Damon to submit at 11:59 pm AEST
+
+# Week 4
+
+## Monday 21/06/22
+
+- Frontend work division with Owen
+- Tam to do login/register/pwreset, navigation bar, error modal
+- Owen to handle redux, movie home page and storage data
+- Moving forward, we will hold short daily meetings with only relevant members, e.g. backend meeting, frontend meeting, scrum-master, etc.
+
+## Wednesday 22/06/22
+
+- Completed template for
+    - login
+    - logout
+    - password-reset
+    - navBar
+    - errorModal
+    - darkMode
+    
+## Thursday 23/06/22
+
+- Completed 404 page - detective pikachu!
+- Fixed ui for password request + reset
+- History (navigate back to prev)
+- To discuss: further work division with Owen for the remaining of Sprint 1
+
+## Friday 24/06/22
+
+- Implemented Frontend listing all users page
+    - also added search functionality with auto-complete
+- Implemented Frontend user page, profile tab
+- UI improvements
+- Fixed common interface 
+    - token now in headers
+    - login by email only
+    - 400 for all input errors
+    - 401 for invalid token
+    - 403 for permission errors (e.g. user acting like admin)
+    
+## Saturday 25/06/22
+
+- Set up Mongodb and Maven locally to test backend + frontend
+- Tidy up UI for users all and user profile pages
+- Worked on admin tab (to add movie) in user page
+
+## Sunday 26/06/22
+
+- Damon to do Authentication and Authorization with Token
+- Joyce suggested some modifications on interface
+- Matt added movie data in data.json (and wasted all of my 100 requests)
+- Owen will let the backend do the filtering and sorting.
+- Owen will do the movie page
+- Tam to do the users movie list tab (watched list, wish list, favourite list)
+
+# Week 5
+
+## Monday 27/06/22
+
+- Updated User Profile UI for mobile
+- Updated admin page error
+- Updated movie list page display
+
+## Tuesday 28.06.22
+
+- Fix interface
+- Added bin icon to movie item in lists
+- Added hover effects and tool tips for clickable icons and buttons
+- Discovered and inform backend of CORS issues
+- Deployed application to the cloud
+
+## Thursday 30.06.22
+
+- Finished movie update button
+- Fix responsiveness on movie details page
+- Tidy UI + link with user stories and ready for demo
+
+## Friday 01.07.22
+
+- Progressive Demo A
+    - everyone was present and presented
+    - Feedback from Rachid were:
+        - Verify email
+        - Remove movies feature
+        - Age and interests upon registration
+        - Age restriction: PG, R18, etc
+        - Favourite list subset of watch list
+- Retrospective to do on Sunday 5:00 pm - 6:00 pm AEST
+    - Everyone to take a short break in the mean time
+    - Reflect on what went well, what didn't go well, and what we should try for the next sprint
+    
+## Sunday 03.07.22
+
+- Meeting to discuss
+    - what went well
+    - what didn't go well
+    - improvements for sprint 2
+- Retrospective A written
+
+# Week 6
+
+## Tuesday 05.07.22
+
+- Decided on user stories for Sprint 2
+- Refined acceptance criteria
+- Updated Jira as appropriate and began sprint 2
+
+## Thursday 07.07.22
+
+- Modified existing routes in the interface based on Rachid's feedback
+- Proposed new routes to better enhance features such as search predictions email verification
+- Proposed new routes for sprint 2 in order to satisfy user stories
+
+## Sunday 10.07.22
+
+- Researched frontend components for sprint 2
+- Modify interface and data types to be more consistent with our needs
+
+# Week 7
+
+## Monday 11.07.22
+
+- Redeployed old server and fix interface with token in user/profile and user/profile/update, as per suggestion by Damon.
+- Added 403 Error for blocked users trying to view another user's profile.
+- Minor UI fixes on existing screens
+
+## Wednesday 13.07.22
+
+- Refactored users page code for Authentication
+- Added WrapperTemplate
+- Added LoggedInWrapper
+- Added LoggedOutWrapper
+- Modify App.ts to divide routes into three sections, authenticated, non-authenticated and neither
+
+## Friday 15.07.22
+
+- Fixed retrospective A and Damon submitted for retrospective B, 
+    - Use tables for "What went well, what didn't go well, and improvements for sprint 2"
+- Type something in Slack #standup channel every one or two days so that Joyce can screenshot for Retrospective B
+- Sunday 17.05.22 - meeting and discussion about sprint 3 interface
+
+## Saturday 16.07.22
+
+- User page self: now able to edit
+    - username
+    - email
+    - age
+    - gender
+    - password
+- User page others: can now
+    - view
+    - add friend
+    - block user
+- Movie Page: now able to
+    - rate
+    - post reviews
+    - like
+    - dislike
+- Password Reset:
+    - added password + confirm password 
+    
+# Week 8
+
+## Wednesday 20.07.22
+
+Discovered bugs:
+
+- @backend
+    - user should be able to
+        - edit their own review
+        - delete their own review
+    - backend to return contentRating to frontend (e.g. PG)
+    - Clickable link from email
+    - (if you have time) return a token, uId, isAdmin when we validate email to avoid logging in again.
+    - movie/search/suggestion - return only 10 movie title strings.
+- @frontend
+    - Notification update
+    - Spinner for notification code
+    - Auto search when user selects title
+    
+## Thursday 21.07.22
+    
+- Improved UI with owen - automatic search when user autocompletes.
+- Fixed frontend bug with search predictions
+- Updated interface between backend/frontend,
+
+## Friday 22.07.22
+
+- Fix bugs together with backend for user review (edit/remove)
+- Refactor components in movies page (MoviesListall, MovieSearch, MoviesPage, NavBar)
+- Discovered bug with password reset and auth/validate not logging the user in
+- Feedback from Rachid:
+    - add number of reviews
+    - allow 0 rating
+    - admin can frequently update the imdb review
+    - imdb restrict rating to be out of 5 when displayed
+
+## Saturday 23.07.22
+
+- Shell script to install all necessary dependencies for backend
+- Shell script to install all necessary dependencies for frontend
+- Tested installation on Lubuntu virtual machine
+- Fix deployment and cloud Mongodb atlas database
+
+# Week 9
+
+## Sunday 20.07.22
+
+- Retrospective B completed with the group
+- Small modifications to frontend and backend based on Rachid's feedback from the project demo.
+
+## Monday 21.07.22
+
+- Developed new interface for sprint 3 together with the group
+- User stories marked as in-progress
+- Acceptance criteria tweaked to better meet our needs
+
+## Wednesday 23.07.22
+
+- Corrected interface, thanks @Joyce
+- Designing blog pages
+
+# Week 9
+
+- Sprint 3 meetings and group programming crunch
+
+# Week 10
+
+- Project Demo
+- Final Report
+- Peer Review

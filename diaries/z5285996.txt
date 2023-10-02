@@ -1,0 +1,29 @@
+Week 1
+Assemble a team and discuss the project
+
+Week 2
+Discuss the user story and assign tasks
+Start working on the proposal
+
+Week 3
+Keep finishing proposal and user story
+working on user interface
+
+Week 4
+Create the frontend project and start coding
+get familiar with react-redux and use it for store management
+
+Week 5
+Working for the frontend for sprint 1
+
+Week 7
+Working for the frontend for sprint 2
+
+Week 8
+Discuss about the Restful interface for sprint 3
+
+Week 9
+Working for the frontend for sprint 3
+
+Week 10
+Working for the frontend for sprint 3 and finishing the report

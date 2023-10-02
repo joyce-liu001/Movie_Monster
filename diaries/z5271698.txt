@@ -1,0 +1,45 @@
+Week 1
+- Group formed within the tutorial.
+- Participated in group discussion about which languages to used.
+
+Week 2
+- Meeting to discuss and fix the user stories.
+- Worked the Background of project proposal.
+
+Week 3
+- fix the reference for proposal
+- discuss in meeting
+
+Week 4
+- connect database(Mongodb) to backend(Spring boot)
+- create database
+- coding for movie about sprint1
+
+Week 5
+- test coding and debug for about movie backend
+- Thursday, meeting for tomorrow demo
+- Friday 01.07.22
+- Progressive Demo A
+- Retrospective meeting on Sunday 5:00 pm - 6:00 pm AEST
+- write some backend reflection and decide sprint2 user stories.
+
+Week 7
+- Write the backend function about sprint 2
+- Test yesterday code from frontend.
+- Fix bugs together with backend for user review (edit/remove)
+
+Week 8
+- Retrospective B meeting on Sunday
+- write some backend reflection for sprint2
+
+Week 9
+- Interface for sprint3 on Monday
+- fix bug for sprint2 and write all blog functions (Tuesday)
+- Retrospective B completed with the group
+- Write the blog and friend request functions
+- Corrected interface
+
+Week 10
+- write share movie and notification.
+- meeting and write final report together
+

@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "9c3afa57-af09-4e23-9e77-aabdf1c8fcff",
+    "username": "admin",
+    "email": "admin@gmail.com",
+    "password": "123456",
+    "age": 100,
+    "gender": "other",
+    "wishList": [],
+    "favouriteList": [],
+    "watchedList": [],
+    "isAdmin": true,
+    "avatar": "",
+    "tokens": [],
+    "blockedUsers": [],
+    "userStatus": "public",
+    "validationCode": "",
+    "_class": "com.comp3900.movie_monster.user.User"
+  },
+  {
+    "_id": "1b9ba2ef-da0b-47c7-98f2-f498e5edfafb",
+    "username": "user",
+    "email": "user@gmail.com",
+    "password": "123456",
+    "age": 99,
+    "gender": "other",
+    "wishList": [],
+    "favouriteList": [],
+    "watchedList": [],
+    "isAdmin": false,
+    "avatar": "",
+    "tokens": [],
+    "blockedUsers": [],
+    "userStatus": "public",
+    "validationCode": "",
+    "_class": "com.comp3900.movie_monster.user.User"
+  }
+]

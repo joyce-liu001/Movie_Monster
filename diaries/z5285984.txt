@@ -1,0 +1,78 @@
+# 9/6/2022
+## I create three sprints in Jira and make user stories into Backlog and make critra of each one with my team in meeting
+
+# 10/6/2022
+## Meet at lab time, refine our user stories and hopefully I will finish 6 user stories today and by Sunday time, hopefully I'll figure out a way to 
+## represent our system architecture
+
+# 12/6/2022
+## Meet at today. I am reponsible for building system architecture.I have created some functionalities of the proposal
+
+# 14/6/2022
+## I create the system architechture today and did the same part of proposal
+
+#17/6/2022
+##  fix the system aritechture today and I'm gonna to fix the exteral actors as well.
+
+#18/6/2022
+## finish the system aritechture and exteral actors
+
+#19/6/2022
+## build a springboot architecture
+
+#21/6/2022
+## write some start code
+
+#22/6/2022
+## create auth controller, movie controller
+
+#23/6/2022
+## plan to finish auth controller and fix some bugs
+
+#24/6/2022
+## find a way to return reponsetity to front-end
+
+#25/6/2022
+## finish register/login and part logout function
+
+
+#27/6/2022
+## finish all my part and did test locally
+
+
+#28/6/2022
+## fix error message
+
+#29-30/6/2022
+## fix response
+
+#2/7/2022
+## progressive demo meeting 
+
+#12/7/2022
+## finish my part2 of sprint2 but without testing
+
+#15/7/2022
+## plan to do test on my part in next days
+
+#17/7/2022
+## add email sending function
+
+# 18/7/2022
+## fix email sending function
+
+# 19/7/2022
+## fix use response
+
+#20/7/2022
+## finish user/profile and update user/profile/status
+
+
+#26/7/2022
+## discuss recommendation algorithm with Matt
+
+#27/7/2022
+## finish upload file function
+
+#1/8/2022
+## finish algorithm design and implentation

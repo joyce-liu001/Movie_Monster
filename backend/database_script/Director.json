@@ -1,0 +1,462 @@
+[
+  {
+    "_id": "nm0634240",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Christopher Nolan"
+  },
+  {
+    "_id": "nm0001104",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Frank Darabont"
+  },
+  {
+    "_id": "nm0000338",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Francis Ford Coppola"
+  },
+  {
+    "_id": "nm0001486",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Sidney Lumet"
+  },
+  {
+    "_id": "nm0000229",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Steven Spielberg"
+  },
+  {
+    "_id": "nm0001392",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Peter Jackson"
+  },
+  {
+    "_id": "nm0000233",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Quentin Tarantino"
+  },
+  {
+    "_id": "nm0905154",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Lana Wachowski"
+  },
+  {
+    "_id": "nm0905152",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Lilly Wachowski"
+  },
+  {
+    "_id": "nm0001466",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Sergio Leone"
+  },
+  {
+    "_id": "nm0000709",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Robert Zemeckis"
+  },
+  {
+    "_id": "nm0000399",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "David Fincher"
+  },
+  {
+    "_id": "nm0449984",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Irvin Kershner"
+  },
+  {
+    "_id": "nm0000217",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Martin Scorsese"
+  },
+  {
+    "_id": "nm0001232",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Milos Forman"
+  },
+  {
+    "_id": "nm0000041",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Akira Kurosawa"
+  },
+  {
+    "_id": "nm0001008",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Frank Capra"
+  },
+  {
+    "_id": "nm0001129",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Jonathan Demme"
+  },
+  {
+    "_id": "nm0576987",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Fernando Meirelles"
+  },
+  {
+    "_id": "nm0526199",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Kátia Lund"
+  },
+  {
+    "_id": "nm0000905",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Roberto Benigni"
+  },
+  {
+    "_id": "nm0000184",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "George Lucas"
+  },
+  {
+    "_id": "nm0000116",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "James Cameron"
+  },
+  {
+    "_id": "nm0594503",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Hayao Miyazaki"
+  },
+  {
+    "_id": "nm0000033",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Alfred Hitchcock"
+  },
+  {
+    "_id": "nm0000591",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Roman Polanski"
+  },
+  {
+    "_id": "nm0000108",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Luc Besson"
+  },
+  {
+    "_id": "nm0094435",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Bong Joon Ho"
+  },
+  {
+    "_id": "nm0021249",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Roger Allers"
+  },
+  {
+    "_id": "nm0591450",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Rob Minkoff"
+  },
+  {
+    "_id": "nm0000631",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Ridley Scott"
+  },
+  {
+    "_id": "nm0443411",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Tony Kaye"
+  },
+  {
+    "_id": "nm0001741",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Bryan Singer"
+  },
+  {
+    "_id": "nm0002031",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Michael Curtiz"
+  },
+  {
+    "_id": "nm2676052",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Joseph Kosinski"
+  },
+  {
+    "_id": "nm3227090",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Damien Chazelle"
+  },
+  {
+    "_id": "nm0619923",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Olivier Nakache"
+  },
+  {
+    "_id": "nm0865918",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Éric Toledano"
+  },
+  {
+    "_id": "nm0000122",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Charles Chaplin"
+  },
+  {
+    "_id": "nm0462030",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Masaki Kobayashi"
+  },
+  {
+    "_id": "nm0847223",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Isao Takahata"
+  },
+  {
+    "_id": "nm0868153",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Giuseppe Tornatore"
+  },
+  {
+    "_id": "nm0004056",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Andrew Stanton"
+  },
+  {
+    "_id": "nm0003697",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Florian Henckel von Donnersmarck"
+  },
+  {
+    "_id": "nm0000697",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Billy Wilder"
+  },
+  {
+    "_id": "nm0000040",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Stanley Kubrick"
+  },
+  {
+    "_id": "nm0751577",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Anthony Russo"
+  },
+  {
+    "_id": "nm0751648",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Joe Russo"
+  },
+  {
+    "_id": "nm0005222",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Sam Mendes"
+  },
+  {
+    "_id": "nm2130108",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Bob Persichetti"
+  },
+  {
+    "_id": "nm0709056",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Peter Ramsey"
+  },
+  {
+    "_id": "nm0745247",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Rodney Rothman"
+  },
+  {
+    "_id": "nm0661791",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Park Chan-wook"
+  },
+  {
+    "_id": "nm0680846",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Todd Phillips"
+  },
+  {
+    "_id": "nm0000154",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Mel Gibson"
+  },
+  {
+    "_id": "nm0005124",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "John Lasseter"
+  },
+  {
+    "_id": "nm0881279",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Lee Unkrich"
+  },
+  {
+    "_id": "nm2937122",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Adrian Molina"
+  },
+  {
+    "_id": "nm0000583",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Wolfgang Petersen"
+  },
+  {
+    "_id": "nm0001814",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Gus Van Sant"
+  },
+  {
+    "_id": "nm0004716",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Darren Aronofsky"
+  },
+  {
+    "_id": "nm1396121",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Makoto Shinkai"
+  },
+  {
+    "_id": "nm0002045",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Stanley Donen"
+  },
+  {
+    "_id": "nm0000037",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Gene Kelly"
+  },
+  {
+    "_id": "nm0386246",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Rajkumar Hirani"
+  },
+  {
+    "_id": "nm0549658",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Richard Marquand"
+  },
+  {
+    "_id": "nm0327273",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Michel Gondry"
+  },
+  {
+    "_id": "nm1701024",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Nadine Labaki"
+  },
+  {
+    "_id": "nm0000080",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Orson Welles"
+  },
+  {
+    "_id": "nm0000180",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "David Lean"
+  },
+  {
+    "_id": "nm0899121",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Thomas Vinterberg"
+  },
+  {
+    "_id": "nm0000485",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Fritz Lang"
+  },
+  {
+    "_id": "nm0000466",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Jean-Pierre Jeunet"
+  },
+  {
+    "_id": "nm0459552",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Elem Klimov"
+  },
+  {
+    "_id": "nm0000361",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Brian De Palma"
+  },
+  {
+    "_id": "nm0001351",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "George Roy Hill"
+  },
+  {
+    "_id": "nm0612322",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Robert Mulligan"
+  },
+  {
+    "_id": "nm0000436",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Curtis Hanson"
+  },
+  {
+    "_id": "nm0230032",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Pete Docter"
+  },
+  {
+    "_id": "nm0677037",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Bob Peterson"
+  },
+  {
+    "_id": "nm0000520",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Michael Mann"
+  },
+  {
+    "_id": "nm2371802",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Thomas Kail"
+  },
+  {
+    "_id": "nm1410815",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Asghar Farhadi"
+  },
+  {
+    "_id": "nm0005363",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Guy Ritchie"
+  },
+  {
+    "_id": "nm0001532",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "John McTiernan"
+  },
+  {
+    "_id": "nm0898288",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Denis Villeneuve"
+  },
+  {
+    "_id": "nm0001120",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Vittorio De Sica"
+  },
+  {
+    "_id": "nm1218281",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Jon Watts"
+  },
+  {
+    "_id": "nm0451148",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Aamir Khan"
+  },
+  {
+    "_id": "nm1244760",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Amole Gupte"
+  },
+  {
+    "_id": "nm0386570",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Oliver Hirschbiegel"
+  },
+  {
+    "_id": "nm4318159",
+    "_class": "com.comp3900.movie_monster.director.Director",
+    "name": "Nitesh Tiwari"
+  }
+]
